@@ -1,0 +1,17 @@
+# IDE
+.idea
+
+# Virtual env
+venv
+
+# weights
+*.pth
+
+# data
+data
+
+__pycache__
+
+.ipynb_checkpoints
+.pyc
+.DS_Store
